@@ -36,7 +36,7 @@ const Hero = ({setBgopen}) => {
                                 <div className="relative ml-8 pl-12">
                                 <img src="./images/logo.png" alt='logo' width="175"/>
                                 <div className="flex items-center justify-center mt-[-70px] ml-[-60px] mb-5">
-                                    <div className=" ml-[-15px] flex h-14 w-14 rounded-full bg-pink-500 items-center justify-center gap-1">
+                                    <div className=" ml-[-12px] flex h-14 w-14 rounded-full bg-pink-500 items-center justify-center gap-1">
                                         <div className="h-2 w-1 bg-pink-300 rounded-full animate-wavey "></div>
                                         <div className="h-3 w-1 bg-pink-200 rounded-full animate-wavey animation-delay-200 "></div>
                                         <div className="h-4 w-1 bg-pink-100 rounded-full animate-wavey animation-delay-200 "></div>
