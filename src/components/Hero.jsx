@@ -21,7 +21,7 @@ const Hero = ({setBgopen}) => {
         <div className=' flex  min-w-full h-[600px]'>
             <img src='../images/concert.jpg' alt='hero' className=' w-full h-full  object-cover min-h-[400px] '/>
         </div>
-        <div onClick={handleToggleClick}  className=' w-8 h-6 absolute top-0 right-0 z-10'>
+        <div onClick={handleToggleClick}  className=' w-8 h-6 absolute top-0 right-0 z-10 hover:cursor-pointer'>
             
              <img  src='../images/darktoggle.png' alt='toggle'/> 
 
