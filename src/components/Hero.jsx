@@ -25,8 +25,8 @@ const Hero = ({setBgopen}) => {
             
              <img  src='../images/darktoggle.png' alt='toggle'/> 
 
-            <div className={ dark?' w-4 h-4 rounded-full bg-white top-2 absolute right-0 ':
-            'w-4 h-4 rounded-full bg-black top-2 absolute right-4'
+            <div className={ dark?' w-4 h-4 rounded-full bg-black top-2 absolute right-0 ':
+            'w-4 h-4 rounded-full bg-white top-2 absolute right-4'
         }></div> 
             
         </div>
